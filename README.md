@@ -1,2 +1,2 @@
-# 150kSalaryGrowthExperience
-I plan to work in America, study hard to earn $150k salary for a year.
+# GrowthExperience
+study hard for a chance to change my life
