@@ -1,1 +1,15 @@
-.ipynb_checkpoints
+# jupyter generated file
+*.ipynb_checkpoints/
+
+# python generated file
+*.pyc
+
+# Java generated file
+*.class
+*target/
+
+# IDEA generated file
+*.iml
+*.idea/
+
+#
