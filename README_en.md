@@ -13,7 +13,7 @@
 * Shanghai Zongyi Automation Control Equipment Co.,Ltd, located in Jiading District, Shanghai.
 * I worked as an image algorithm engineer, mainly responsible for the company's project design and coding.
 * Working time: November 2018 - March 2020
-* During the tenure, I completed the project named **"A self-service ordering beer based on image recognition and collaborative manipulator"**.
+* During the tenure, I completed the project named **"A self-service beer ordering based on image recognition and collaborative manipulator"**.
 
 ## Second Job
 * eBay Corporation: MarketingTech department, Chinese Centric of Excellence.
